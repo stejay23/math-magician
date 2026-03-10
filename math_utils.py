@@ -1,113 +1,11 @@
+def subtract(a, b):
+    return a - b
+  
+def multiply(a, b):
+    return a * b
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#addition function
 def add(a, b):
-    """
-    Returns the subtraction of b from a
-    """
     return a + b
-
 
 #simple test (optional)
 if name == "main":
